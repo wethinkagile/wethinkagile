@@ -140,17 +140,17 @@ const features = [
   //     </a>
   //   ),
   // },
-  // {
-  //   title: "Built-in Auth + Database",
-  //   description:
-  //     "Precedent comes with authentication and database via [Auth.js](https://authjs.dev/) + [Prisma](https://prisma.io/)",
-  //   demo: (
-  //     <div className="flex items-center justify-center space-x-20">
-  //       <Image alt="Auth.js logo" src="/authjs.webp" width={50} height={50} />
-  //       <Image alt="Prisma logo" src="/prisma.svg" width={50} height={50} />
-  //     </div>
-  //   ),
-  // },
+  {
+    title: "Built-in Auth + Database",
+    description:
+      "Precedent comes with authentication and database via [Auth.js](https://authjs.dev/) + [Prisma](https://prisma.io/)",
+    demo: (
+      <div className="flex items-center justify-center space-x-20">
+        <Image alt="Auth.js logo" src="/authjs.webp" width={50} height={50} />
+        <Image alt="Prisma logo" src="/prisma.svg" width={50} height={50} />
+      </div>
+    ),
+  },
   // {
   //   title: "Hooks, utilities, and more",
   //   description:
