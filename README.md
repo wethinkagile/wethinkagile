@@ -35,7 +35,7 @@ You can deploy this template to Vercel with the button below:
 You can also clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app precedent --example "https://github.com/steven-tey/precedent"
+npx create-next-app precedent --example "https://github.com/stevek-pro/wethinkagile"
 ```
 
 Then, install the dependencies with your package manager of choice:
