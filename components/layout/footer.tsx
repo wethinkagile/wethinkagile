@@ -12,7 +12,14 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           Stephan Kristyn
-        </a>
+        </a> | <a
+          className="font-semibold text-gray-600 underline-offset-4 transition-colors hover:underline"
+          href="https://raw.githubusercontent.com/stevek-pro/kube-client-micro/main/imprint.html"
+          target="_blank"
+          rel="noopener noreferrer"
+      >
+          Impressum
+      </a>
       </p>
       <a
         href="https://www.buymeacoffee.com/stevekpro"
