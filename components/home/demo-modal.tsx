@@ -28,7 +28,7 @@ const DemoModal = ({
               height={20}
             />
           </a>
-          <h3 className="font-display text-2xl font-bold">München, den 11. Januar '24</h3>
+          <h3 className="font-display text-2xl font-bold">München, den 11. Jan. 2024</h3>
           <p className="text-sm text-gray-500">
             Ich bin ein Freelancer, der als Scrum Master, Product Owner oder Solutions Architekt im gesamttechnischen Kontext
             Ihres Projektes tätig werden kann.
