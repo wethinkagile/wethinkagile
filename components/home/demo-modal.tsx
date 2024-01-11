@@ -28,9 +28,19 @@ const DemoModal = ({
               height={20}
             />
           </a>
-          <h3 className="font-display text-2xl font-bold">We Think Agile</h3>
+          <h3 className="font-display text-2xl font-bold">München, den 11. Januar '24</h3>
           <p className="text-sm text-gray-500">
-            We Think Agile is a company for hire that provides Scrum Masters, Product Owners and Agile coaches for your next project.
+            Ich bin ein Freelancer, der als Scrum Master, Product Owner oder Solutions Architekt im gesamttechnischen Kontext
+            Ihres Projektes tätig werden kann.
+            <br /><br />
+            Ich kann hierbei für Sie auf meine Erfahrungen während mehrjährigen Festanstellungen wie etwa bei Microsoft, Yahoo, Akamai sowie Projekten
+            bei der MunichRE, RedHat IBM, der Software AG und DiGA-StartUps zurückgreifen.
+            <br /><br />
+            Gemeinsam mit Ihrem Team, meinen Coaching Skills und meiner mehrjährigen Erfahrung in agilen und DevOps-gelenkten Projekten,
+            werden Sie eine Beauftragung meiner Person wertschätzen lernen.
+            <br /><br />
+            Ich freue mich von Ihnen zu hören,<br />
+            Stephan Kristyn.
           </p>
         </div>
       </div>
