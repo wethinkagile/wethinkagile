@@ -47,7 +47,7 @@ export default async function Home() {
               className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
               style={{animationDelay: "0.25s", animationFillMode: "forwards"}}
           >
-            Beauftragen Sie einen erfahrenen &quot;Reflective practitioner&quot; aus München um Ihr komplexes Projekt zu
+            Beauftragen Sie einen erfahrenen &quot;Cloud Solutions Architect&quot; aus München um Ihr komplexes Software-Projekt zu
             stemmen.
           </p>
           <div
@@ -116,7 +116,7 @@ const features = [
   {
     title: "Was bekommen Sie nur bei mir?",
     description:
-      "OnPrem, Regulatory, DE-Cloud, Infrastruktur-relevante Methoden- und Rechtskentnisse",
+      "Informationssicherheit, BSI-Regulatorik, DE-Cloud, tiefgreifende Rechtskentnisse, FullStack, GitOps, ISO-Normen",
     large: true,
     demo: <WebVitals />
   },
