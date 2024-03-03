@@ -28,15 +28,15 @@ const DemoModal = ({
               height={20}
             />
           </a>
-          <h3 className="font-display text-2xl font-bold">München, den 11. Jan. 2024</h3>
+          <h3 className="font-display text-2xl font-bold">München, den 03. März 2024</h3>
           <p className="text-sm text-gray-500">
-            Ich bin ein Freelancer, der als Scrum Master, Product Owner oder Solutions Architekt im gesamttechnischen Kontext
+            Ich bin ein IT-Professionaller, der als Scrum Master oder Product Owner gesamttechnischen Kontext
             Ihres Projektes tätig werden kann.
             <br /><br />
             Ich kann hierbei für Sie auf meine Erfahrungen während mehrjährigen Festanstellungen wie etwa bei Microsoft, Yahoo, Akamai sowie Projekten
             bei der MunichRE, RedHat IBM, der Software AG und DiGA-StartUps zurückgreifen.
             <br /><br />
-            Gemeinsam mit Ihrem Team, meinen Coaching Skills und meiner mehrjährigen Erfahrung in agilen und DevOps-gelenkten Projekten,
+            Gemeinsam mit Ihrem Team, meinen Faszilitations-Skills und meiner mehrjährigen technischen Erfahrung in agilen Projekten,
             werden Sie eine Beauftragung meiner Person wertschätzen lernen.
             <br /><br />
             Ich freue mich von Ihnen zu hören,<br />

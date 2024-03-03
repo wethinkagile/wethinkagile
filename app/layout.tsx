@@ -5,6 +5,7 @@ import { sfPro, inter } from "./fonts";
 import Nav from "@/components/layout/nav";
 import Footer from "@/components/layout/footer";
 import { Suspense } from "react";
+import { TSGhostContentAPI } from "@ts-ghost/content-api";
 
 export const metadata = {
   title: "We Think Agile - Agile coaching for your next project",
@@ -13,6 +14,19 @@ export const metadata = {
   metadataBase: new URL("https://wethinkagile.com"),
   themeColor: "#FFF",
 };
+
+const api = new TSGhostContentAPI(
+    process.env.GHOST_URL || "https://meshfields.ghost.io",
+    process.env.GHOST_CONTENT_API_KEY || "62b95affdcfc8605b3e8257888",
+    "v5.47.0"
+);
+
+export async function getPosts() {
+  return await api.posts
+      .browse({
+        limit: "all"
+      })
+}
 
 export default async function RootLayout({
   children,

@@ -568,6 +568,22 @@
     lodash.merge "^4.6.2"
     postcss-selector-parser "6.0.10"
 
+"@ts-ghost/content-api@^4.0.11":
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/@ts-ghost/content-api/-/content-api-4.0.11.tgz#dea41cb3d227cd259c048f7bbf97818874a8d450"
+  integrity sha512-vgDdfAEWHKTOUHUpIjUL6DsWPjnJLiVZvNF4N5j7tUN05Q7nkIvqJ5g0aBMFFK/DIMU2yXXG0DlOa6MEJUBwyA==
+  dependencies:
+    "@ts-ghost/core-api" "^5.1.2"
+    zod "^3.22.4"
+
+"@ts-ghost/core-api@^5.1.2":
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@ts-ghost/core-api/-/core-api-5.1.2.tgz#f5a3ec49bee7e800d555821c9750d635b7a60289"
+  integrity sha512-YqLLGAJ8GxHx3GvotnZxmkDuT9ZjJo4DVLl30n5aXr/+1Y3O6PpNpwAa1ws67cshx0rbFmTAGN76goKbVfLDTg==
+  dependencies:
+    jose "^5.1.3"
+    zod "^3.22.4"
+
 "@types/debug@^4.0.0":
   version "4.1.12"
   resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.12.tgz#a155f21690871953410df4b6b6f53187f0500917"
@@ -2157,6 +2173,11 @@ jose@^4.11.4, jose@^4.15.1:
   version "4.15.4"
   resolved "https://registry.yarnpkg.com/jose/-/jose-4.15.4.tgz#02a9a763803e3872cf55f29ecef0dfdcc218cc03"
   integrity sha512-W+oqK4H+r5sITxfxpSU+MMdr/YSWGvgZMQDIsNoBDGGy4i7GBPTtvFKibQzW06n3U3TqHjhvBJsirShsEJ6eeQ==
+
+jose@^5.1.3:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/jose/-/jose-5.2.2.tgz#b91170e9ba6dbe609b0c0a86568f9a1fbe4335c0"
+  integrity sha512-/WByRr4jDcsKlvMd1dRJnPfS1GVO3WuKyaurJ/vvXcOaUQO8rnNObCQMlv/5uCceVQIq5Q4WLF44ohsdiTohdg==
 
 js-sdsl@^4.1.4:
   version "4.4.2"
@@ -3851,3 +3872,8 @@ yoga-wasm-web@^0.3.0:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/yoga-wasm-web/-/yoga-wasm-web-0.3.3.tgz#eb8e9fcb18e5e651994732f19a220cb885d932ba"
   integrity sha512-N+d4UJSJbt/R3wqY7Coqs5pcV0aUj2j9IaQ3rNj9bVCLld8tTGKRa2USARjnvZJWVx1NDmQev8EknoczaOQDOA==
+
+zod@^3.22.4:
+  version "3.22.4"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.22.4.tgz#f31c3a9386f61b1f228af56faa9255e845cf3fff"
+  integrity sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==

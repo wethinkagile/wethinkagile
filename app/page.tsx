@@ -1,13 +1,16 @@
 import Card from "@/components/home/card";
 import { DEPLOY_URL } from "@/lib/constants";
-import { Github, Twitter } from "@/components/shared/icons";
+import { Github } from "@/components/shared/icons";
 import WebVitals from "@/components/home/web-vitals";
 import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
 import { nFormatter } from "@/lib/utils";
-import {Ghost, LucideGhost} from "lucide-react";
+import { getPosts } from '../app/layout';
+
+
 
 export default async function Home() {
+
   const { stargazers_count: stars } = await fetch(
     "https://api.github.com/repos/stevek-pro/wethinkagile",
     {
@@ -24,7 +27,7 @@ export default async function Home() {
     .then((res) => res.json())
     .catch((e) => console.log(e));
 
-  return (
+return (
       <>
         <div className="z-10 w-full max-w-xl px-5 xl:px-0">
           {/*<a*/}
@@ -41,14 +44,13 @@ export default async function Home() {
           <h1
               className="animate-fade-up bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display text-4xl font-bold tracking-[-0.02em] text-transparent opacity-0 drop-shadow-sm [text-wrap:balance] md:text-7xl md:leading-[5rem]"
               style={{animationDelay: "0.15s", animationFillMode: "forwards"}}
-          >InfoSec Regulatory DevOps 2.0
+          >Mut, Fokus, Verbindlichkeit, Respekt, Freimut
           </h1>
           <p
               className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
               style={{animationDelay: "0.25s", animationFillMode: "forwards"}}
           >
-            Beauftragen Sie einen erfahrenen &quot;Cloud Solutions Architect&quot; aus München um Ihr komplexes Software-Projekt zu
-            stemmen.
+            Beauftragen Sie einen erfahrenen Scrum Master aus München um Ihr komplexes IT-Projekt zu kultivieren.
           </p>
           <div
               className="mx-auto mt-6 flex animate-fade-up items-center justify-center space-x-5 opacity-0"
@@ -74,7 +76,7 @@ export default async function Home() {
                     strokeLinejoin="round"
                 />
               </svg>
-              <p>Auf Vercel ausrollen</p>
+              <p>Sofortiger Roll-Out</p>
             </a>
             <a
                 className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-5 py-2 text-sm text-gray-600 shadow-md transition-colors hover:border-gray-800"
@@ -116,7 +118,7 @@ const features = [
   {
     title: "Was bekommen Sie nur bei mir?",
     description:
-      "Informationssicherheit, BSI-Regulatorik, DE-Cloud, tiefgreifende Rechtskentnisse, FullStack, GitOps, ISO-Normen",
+      "Agiles Coaching, Informationssicherheit, BSI-Regulatorik, DE-Cloud, Rechtskentnisse, FullStack, GitOps, ISO-Normen",
     large: true,
     demo: <WebVitals />
   },
