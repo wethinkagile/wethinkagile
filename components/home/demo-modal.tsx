@@ -30,7 +30,7 @@ const DemoModal = ({
           </a>
           <h3 className="font-display text-2xl font-bold">München, den 03. März 2024</h3>
           <p className="text-sm text-gray-500">
-            Ich bin ein IT-Professionaller, der als Scrum Master oder Product Owner gesamttechnischen Kontext
+            Ich bin ein IT-Spezialist, der als Scrum Master oder Product Owner gesamttechnischen Kontext
             Ihres Projektes tätig werden kann.
             <br /><br />
             Ich kann hierbei für Sie auf meine Erfahrungen während mehrjährigen Festanstellungen wie etwa bei Microsoft, Yahoo, Akamai sowie Projekten
