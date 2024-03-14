@@ -31,7 +31,7 @@ export default function NavBar({ session }: { session: Session | null }) {
               className="mr-2 rounded-sm"
             ></Image>
             <p><b>WeThinkAgile</b></p>
-              &nbsp;&nbsp; - <small>Beratung und Produktentwicklung</small>
+              &nbsp;-&nbsp;<small>Beratung und Produktentwicklung</small>
           </Link>
           <div>
             {session ? (
