@@ -24,7 +24,7 @@
 
 ## Introduction
 
-Precedent is an opinionated collection of components, hooks, and utilities for your Next.js project.
+We Think Agile is an opinionated collection of components, hooks, and utilities for your Next.js project.
 
 ## One-click Deploy
 
@@ -92,4 +92,4 @@ https://user-images.githubusercontent.com/28986134/212368288-12f41e37-aa8c-4e0a-
 
 ## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
+-  Stephan Kristyn ([@transformatik](https://mastodon.social/@transformatik)), Steven Tey ([@steventey](https://twitter.com/steventey))
