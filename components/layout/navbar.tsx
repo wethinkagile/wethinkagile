@@ -30,8 +30,8 @@ export default function NavBar({ session }: { session: Session | null }) {
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p><b>WeThinkAgile</b></p>
-              &nbsp;-&nbsp;<small>Beratung und Produktentwicklung</small>
+            <p><b>We Think Agile</b></p>
+              &nbsp;-&nbsp;<small>- Stephan Kristyn - Unternehmensberatung</small>
           </Link>
           <div>
             {session ? (
