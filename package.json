@@ -19,7 +19,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "@tryghost/content-api": "^1.11.20",
     "@ts-ghost/content-api": "^4.0.11",
-    "@types/node": "18.11.18",
+    "@types/node": "18.19.20",
     "@types/react": "18.2.24",
     "@types/react-dom": "18.2.8",
     "@vercel/analytics": "^0.1.11",
