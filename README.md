@@ -9,7 +9,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/stevek-pro/wethinkagile">
+  <a href="https://github.com/wethinkagile/wethinkagile">
     <img src="https://img.shields.io/github/stars/stevek-pro/wethinkagile?label=stevek-pro%2Fwethinkagile" alt="Wethinkagile repo star count" />
   </a>
 </p>
