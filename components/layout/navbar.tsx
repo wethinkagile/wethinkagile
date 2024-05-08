@@ -30,8 +30,8 @@ export default function NavBar({ session }: { session: Session | null }) {
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p><b>We Think Agile</b></p>
-              &nbsp;&nbsp;<small>&nbsp;&nbsp;Stephan Kristyn - Unternehmensberatung</small>
+            <p><b>we think Agile consulting</b></p>
+              &nbsp;&nbsp;<small>&nbsp;&nbsp;Being of Service around the globe</small>
           </Link>
           <div>
             {session ? (
@@ -41,7 +41,7 @@ export default function NavBar({ session }: { session: Session | null }) {
                 className="rounded-full border border-black bg-black p-1.5 px-4 text-sm text-white transition-all hover:bg-white hover:text-black"
                 onClick={() => setShowSignInModal(true)}
               >
-                Einloggen
+                Login
               </button>
             )}
           </div>

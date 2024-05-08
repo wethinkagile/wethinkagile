@@ -28,19 +28,35 @@ const DemoModal = ({
               height={20}
             />
           </a>
-          <h3 className="font-display text-2xl font-bold">München, den 03. März 2024</h3>
+          <h3 className="font-display text-2xl font-bold">we think Agile consulting</h3>
           <p className="text-sm text-gray-500">
-            Ich bin ein IT-Spezialist, der als Scrum Master oder Product Owner gesamttechnischen Kontext
-            Ihres Projektes tätig werden kann.
-            <br /><br />
-            Ich kann hierbei für Sie auf meine Erfahrungen während mehrjährigen Festanstellungen wie etwa bei Microsoft, Yahoo, Akamai sowie Projekten
-            bei der MunichRE, RedHat IBM, der Software AG und DiGA-StartUps zurückgreifen.
-            <br /><br />
-            Gemeinsam mit Ihrem Team, meinen Faszilitations-Skills und meiner mehrjährigen technischen Erfahrung in agilen Projekten,
-            werden Sie eine Beauftragung meiner Person wertschätzen lernen.
-            <br /><br />
-            Ich freue mich von Ihnen zu hören,<br />
-            Stephan Kristyn.
+
+
+            <strong>Scrum</strong>.org® certified Scrum Master™<br /> Certified <strong>DevOps 2.0 Coach</strong><br />
+            <strong>Microsoft</strong> certified <strong>Azure AZ-900</strong><br />
+            <strong>Google </strong>certified <strong>Site Reliability Engineer </strong><br />
+            Certified <strong>ISO27001 Advisor</strong><br />
+            <strong>Linux Professional Instititue</strong> accredited<br />
+            Berkely certified  <strong>AI/ML Software Engineer</strong><br />
+            Oxford-graduated <strong>Software Engineer</strong><br />
+            Oxford-accredited <strong>Business Coach</strong><br /><br />
+
+            Experience in:<br />
+            <strong>
+            IT-Regulatory, Data-Privacy Legislation, Federal and Local Government, Health, Defense, Finance, Hightech, Entertainment<br /><br />
+            </strong>
+
+            Alumni of:<br />
+            <strong>Microsoft | Red Hat | Intel </strong><br /><br />
+
+            Worked with ❤ in:<br />
+            <strong>London, Berlin, Munich, Heidelberg</strong><br /><br />
+
+
+            Send me an <u><a href="mailto:info -at- we think agile dot com"> E-Mail</a></u> any time. Let's have coffee.<br />
+            ___________________________________________<br />
+            Community contributor at Stackoverflow<br />
+            Sponsorer & submitter at Github<br />
           </p>
         </div>
       </div>

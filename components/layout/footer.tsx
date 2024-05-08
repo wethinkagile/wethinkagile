@@ -4,21 +4,21 @@ export default function Footer() {
   return (
     <div className="absolute w-full py-5 text-center">
       <p className="text-gray-500">
-        Kontaktieren Sie {" "}
+        Contact {" "}
         <a
           className="font-semibold text-gray-600 underline-offset-4 transition-colors hover:underline"
           href="mailto:info 'At-Zeichen' wethinkagile.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Stephan Kristyn
+          we think Agile consulting
         </a> | <a
           className="font-semibold text-gray-600 underline-offset-4 transition-colors hover:underline"
           href="https://raw.githubusercontent.com/stevek-pro/kube-client-micro/main/imprint.html"
           target="_blank"
           rel="noopener noreferrer"
       >
-          Impressum
+          Imprint / Impressum
       </a>
       </p>
       <a
@@ -28,7 +28,7 @@ export default function Footer() {
         className="mx-auto mt-2 flex max-w-fit items-center justify-center space-x-2 rounded-lg border border-gray-200 bg-white px-6 py-2 transition-all duration-75 hover:scale-105"
       >
         <BuyMeACoffee className="h-6 w-6" />
-        <p className="font-medium text-gray-600">Laden Sie mich zum Kaffee ein</p>
+        <p className="font-medium text-gray-600">Let's have coffee!</p>
       </a>
     </div>
   );
