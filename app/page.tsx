@@ -105,7 +105,7 @@ return (
                   title={title}
                   description={description}
                   demo={
-                    title === "Offered Expertise and Professionalism in" ? (
+                    title === "I do help my clients for 25 years with.." ? (
                         <ComponentGrid/>
                     ) : (
                         demo
@@ -121,7 +121,7 @@ return (
 
 const features = [
   {
-    title: ".. percent focus on your project with extensive experience in..",
+    title: "I do help my clients for 25 years with..",
     description:
       "Agile Coaching, Information Security, Regulatory (BSI), Cloud, Law, FullStack, GitOps, DevOps, ISO/IEC",
     large: true,

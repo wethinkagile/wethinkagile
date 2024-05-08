@@ -30,7 +30,7 @@ export default function NavBar({ session }: { session: Session | null }) {
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p><b>we think Agile consulting</b></p>
+            <p><b>we think Agile Consulting</b></p>
               &nbsp;&nbsp;<small>&nbsp;&nbsp;Being of Service around the globe</small>
           </Link>
           <div>
