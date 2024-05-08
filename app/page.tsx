@@ -50,12 +50,12 @@ return (
               className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
               style={{animationDelay: "0.25s", animationFillMode: "forwards"}}
           >
-            Beauftragen Sie einen <strong>Scrum</strong>.org® <a
+            Hire a <strong>Scrum</strong>.org® <a
               href="https://www.scrum.org/user/1352608"
               target="_blank"
               rel="noreferrer"
               className="mx-auto mb-5 flex max-w-fit animate-fade-up items-center justify-center space-x-2 overflow-hidden rounded-full bg-blue-100 px-7 py-2 transition-colors hover:bg-blue-200"
-          >Professional Scrum Master™</a> um die Vision Ihres Produktes zu realisieren - Iterativ, Empirisch, Früh und Oft.
+          >Professional Scrum Master™</a> to maximise the vision of your product - early and often.
           </p>
           <div
               className="mx-auto mt-6 flex animate-fade-up items-center justify-center space-x-5 opacity-0"
