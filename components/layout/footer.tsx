@@ -28,7 +28,7 @@ export default function Footer() {
         className="mx-auto mt-2 flex max-w-fit items-center justify-center space-x-2 rounded-lg border border-gray-200 bg-white px-6 py-2 transition-all duration-75 hover:scale-105"
       >
         <BuyMeACoffee className="h-6 w-6" />
-        <p className="font-medium text-gray-600">Let's have coffee!</p>
+        <p className="font-medium text-gray-600">Let&apos;s have coffee!</p>
       </a>
     </div>
   );

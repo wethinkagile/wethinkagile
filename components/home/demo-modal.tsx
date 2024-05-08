@@ -37,7 +37,7 @@ const DemoModal = ({
             <strong>Google </strong>certified <strong>Site Reliability Engineer </strong><br />
             Certified <strong>ISO27001 Advisor</strong><br />
             <strong>Linux Professional Instititue</strong> accredited<br />
-            Berkely certified  <strong>AI/ML Software Engineer</strong><br />
+            Berkely certified <strong>AI/ML Software Engineer</strong><br />
             Oxford-graduated <strong>Software Engineer</strong><br />
             Oxford-accredited <strong>Business Coach</strong><br /><br />
 
@@ -53,7 +53,7 @@ const DemoModal = ({
             <strong>London, Berlin, Munich, Heidelberg</strong><br /><br />
 
 
-            Send me an <u><a href="mailto:info -at- we think agile dot com"> E-Mail</a></u> any time. Let's have coffee.<br />
+            Send me an <u><a href="mailto:info -at- we think agile dot com"> E-Mail</a></u> any time. Let&apos;s have coffee.<br />
             ___________________________________________<br />
             Community contributor at Stackoverflow<br />
             Sponsorer & submitter at Github<br />
