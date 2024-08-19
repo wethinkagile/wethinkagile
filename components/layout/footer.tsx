@@ -11,7 +11,7 @@ export default function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          we think Agile Consulting
+          we think.Agile Consulting
         </a> | <a
           className="font-semibold text-gray-600 underline-offset-4 transition-colors hover:underline"
           href="https://raw.githubusercontent.com/stevek-pro/kube-client-micro/main/imprint.html"
