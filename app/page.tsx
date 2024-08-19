@@ -37,14 +37,14 @@ return (
           >
             <Ghost className="h-5 w-5 text-[#1d9bf0]" />
             <p className="text-sm font-semibold text-[#1d9bf0]">
-              Visit my Blog about SCRUM
+              VISIT my NEW BLOG about SCRUM
             </p>
           </a>
 
           <h1
               className="animate-fade-up bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display text-4xl font-bold tracking-[-0.02em] text-transparent opacity-0 drop-shadow-sm [text-wrap:balance] md:text-7xl md:leading-[5rem]"
               style={{animationDelay: "0.15s", animationFillMode: "forwards"}}
-          >Courage Focus, Commitment, Respect and Openness
+          >Courage, Focus, Commitment, Respect and Openness
           </h1>
           <p
               className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
