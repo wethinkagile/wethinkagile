@@ -54,6 +54,8 @@ const DemoModal = ({
 
 
             Send me an <u><a href="mailto:info -at- we think agile dot com"> E-Mail</a></u> any time. Let&apos;s have coffee.<br />
+
+            Get my <u><a href="/Lebenslauf%20-%20DE%20-%20We%20Think%20Agile%20%28Stephan%20Kristyn%2C%20Certified%20Scrum%20Master%29.pdf"> CV</a></u> here.
             ___________________________________________<br />
             Community contributor at Stackoverflow<br />
             Sponsorer & submitter at Github<br />

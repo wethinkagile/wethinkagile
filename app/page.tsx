@@ -4,7 +4,7 @@ import { Github, Twitter } from "@/components/shared/icons";
 import WebVitals from "@/components/home/web-vitals";
 import ComponentGrid from "@/components/home/component-grid";
 import { nFormatter } from "@/lib/utils";
-import {Ghost} from "lucide-react";
+import {Ghost, VideoIcon} from "lucide-react";
 
 
 
@@ -30,14 +30,14 @@ return (
       <>
         <div className="z-10 w-full max-w-xl px-5 xl:px-0">
           <a
-              href="https://blog.wethinkagile.com"
+              href="https://www.youtube.com/@scrumcoach"
               target="_blank"
               rel="noreferrer"
               className="mx-auto mb-5 flex max-w-fit animate-fade-up items-center justify-center space-x-2 overflow-hidden rounded-full bg-blue-100 px-7 py-2 transition-colors hover:bg-blue-200"
           >
-            <Ghost className="h-5 w-5 text-[#1d9bf0]" />
+            <VideoIcon className="h-5 w-5 text-[#1d9bf0]" />
             <p className="text-sm font-semibold text-[#1d9bf0]">
-              VISIT my NEW BLOG about SCRUM
+              VISIT my VLOG about AGILE
             </p>
           </a>
 
